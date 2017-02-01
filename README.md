@@ -20,7 +20,9 @@ PART 2:
 1. in your draw function, change the `ellipse` function into an `arc` function, by just replacing the word "ellipse" with "arc", then add two more arguments, so the fifth argument is the variable called `arcStart` and the sixth argument is `arcEnd`.
 1. in the last line of the draw function, increment the two variables by 0.05
 
-...
+PART 3:
+
+[ coming soon ]
 
 WRAP-UP:
 
