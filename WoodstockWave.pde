@@ -1,5 +1,6 @@
 // based on https://www.openprocessing.org/sketch/152169
 // https://creativecommons.org/licenses/by-sa/3.0/
+//done in colaberation with Mr. Smith
 
 float end = TWO_PI;
 float movement = 0;
