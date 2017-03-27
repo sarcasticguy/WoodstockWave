@@ -4,7 +4,7 @@
 
 float end = TWO_PI;
 float movement = 0;
-int size;
+int sz;
 int i;
 void setup()
 {
@@ -22,7 +22,7 @@ void draw()
   {
     size = i * 22;
     end = map(sin(movement + (TWO_PI / 25 * i)), -1, 1, PI, TWO_PI);
-    arc(width/2, height/2, size, size, PI, end);
+    arc(width/2, height/2, sz, sz, PI, end);
     i = i + 1;
   }
   movement = movement + PI/60;
